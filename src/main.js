@@ -33,4 +33,3 @@ function atualizarItensDeLista(){
     olSaida.appendChild(li);
   }
 }
-//main.js finalizado
