@@ -15,3 +15,4 @@ export function adicionaNaLista(novoItem){
 export function removeDaLista(posicao){
   lista.splice(posicao, posicao);
 }
+//lista.js finalizado
